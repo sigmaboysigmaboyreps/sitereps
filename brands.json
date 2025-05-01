@@ -1,0 +1,6 @@
+[
+      { id: 'all', name: 'Wszystkie Marki' },
+      { id: 'nike', name: 'Nike' },
+      { id: 'adidas', name: 'Adidas' },
+       { id: 'puma', name: 'Puma' }
+  }
