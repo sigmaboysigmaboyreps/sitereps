@@ -2,7 +2,7 @@
     { "id": "all", "name": "Wszystkie Marki" },
     { "id": "nike", "name": "Nike" },
     { "id": "adidas", "name": "Adidas" },
-    { "id": "puma", "name": "Puma" }
+    { "id": "puma", "name": "Puma" },
     { "id": "apple", "name": "Apple" },
     { "id": "gucci", "name": "Gucci" },
     { "id": "cartier", "name": "Cartier" },
