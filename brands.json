@@ -3,4 +3,9 @@
     { "id": "nike", "name": "Nike" },
     { "id": "adidas", "name": "Adidas" },
     { "id": "puma", "name": "Puma" }
+    { "id": "apple", "name": "Apple" },
+    { "id": "gucci", "name": "Gucci" },
+    { "id": "cartier", "name": "Cartier" },
+    { "id": "lv", "name": "LV" },
+    { "id": "bape", "name": "Bape" }
 ]
