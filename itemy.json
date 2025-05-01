@@ -24,12 +24,5 @@
         "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Nike+Dunks",
         "weidianID": "1234567891"
     },
-    {
-        "category": "clothing",
-        "brand": "puma",
-        "name": "Bluza Puma Essentials",
-        "description": "Wygodna bluza z logo Puma.",
-        "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Bluza+Puma",
-        "weidianID": "6677889900"
-    }
+ 
 ]
