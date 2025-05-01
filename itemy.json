@@ -10,6 +10,14 @@
     },
     {
         "category": "shoes",
+        "brand": "adidas",
+        "name": "Gruby Makar",
+        "description": "Makar.",
+        "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Makars",
+        "weidianID": "7399037725"
+    },
+    {
+        "category": "shoes",
         "brand": "nike",
         "name": "Nike Dunks Low",
         "description": "Wysokiej jakości repliki butów Nike Dunk Low.",
