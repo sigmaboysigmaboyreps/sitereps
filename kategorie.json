@@ -1,5 +1,9 @@
 [
     { "id": "slippers", "name": "Kapcie" },
     { "id": "shoes", "name": "Buty" },
-    { "id": "clothing", "name": "Odzież" }
+    { "id": "hoodies", "name": "Bluzy" },
+    { "id": "pants", "name": "Spodnie" },
+    { "id": "accesories", "name": "Akcesoria" },
+    { "id": "electronics", "name": "Elektronika"},
+    { "id": "others", "name": "Inne" }
 ]
