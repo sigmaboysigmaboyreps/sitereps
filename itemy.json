@@ -1,15 +1,9 @@
- [
-    {
-        "category": "slippers",
-        "brand": "adidas",
-        "name": "Yeezy Slides",
-        "description": "Repliki kapci \"Yeezy Slides\".",
-        "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Yeezy+Slides",
-        "weidianID": "7399037725"
-    },
+ 
+[
+ 
     {
         "category": "shoes",
-        "brand": "Nike",
+        "brand": "nike",
         "name": "Air Force 1 (Rozne kolorystyki)",
         "description": "XP Batch (aktualnie best)",
         "imageUrl": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/AIR+FORCE+1+%2707.png",
@@ -17,18 +11,43 @@
     },
     {
         "category": "shoes",
-        "brand": "Nike",
+        "brand": "nike",
+        "name": "Dunk Low  (Rozne kolorystyki)",
+        "description": "XP Batch (aktualnie best)",
+        "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Dunk",
+        "weidianID": "4415766195"
+    },
+    {
+        "category": "shoes",
+        "brand": "nike",
         "name": "Air Jordan 4 (Rozne kolorystyki)",
         "description": "GX Batch (aktualnie best)",
         "imageUrl": "https://sneakersjoint.com/wp-content/uploads/2023/04/air-jordan-4-retro-og-fire-red-2020-sneakers-1-1260x1260.webp ",
         "weidianID": "7312316231"
     },
+ 
     {
-        "category": "shoes",
-        "brand": "nike",
-        "name": "Nike Dunks Low",
-        "description": "Wysokiej jakości repliki butów Nike Dunk Low.",
-        "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Nike+Dunks",
-        "weidianID": "1234567891"
+        "category": "electronics",
+        "brand": "apple",
+        "name": "Airpods Pro v2",
+        "description": "Wysokiej jakości repliki airpodsow pro 2 (Brac v5.3 TB/ v5.3 HR+ v5.2 TB)",
+        "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_147109078/fee_786_587_png", 
+        "weidianID": "7247449195"
+    },
+    {
+        "category": "electronics",
+        "brand": "apple",
+        "name": "Airpods 4 ANC",
+        "description": "Wysokiej jakości repliki airpodsow 4 (Brac GEN4V2TB)",
+        "imageUrl": "data:image/jpeg;base64,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", 
+        "weidianID": "7247449195"
+    },
+    {
+        "category": "electronics",
+        "brand": "apple",
+        "name": "Airpods Max",
+        "description": "Wysokiej jakości repliki airpodsow max",
+        "imageUrl": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_107867674", 
+        "weidianID": "7247449195"
     }
 ]
