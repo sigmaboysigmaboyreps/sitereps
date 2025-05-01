@@ -1,6 +1,6 @@
 [
-            { id: 'slippers', name: 'Kapcie' },
-            { id: 'shoes', name: 'Buty' },
-            { id: 'clothing', name: 'Odzież' },
-            // Add more categories here { id: 'your_id', name: 'Your Name' }
-        ]
+    { "id": "slippers", "name": "Kapcie" },
+    { "id": "shoes", "name": "Buty" },
+    { "id": "clothing", "name": "Odzież" }
+    // Add more categories here { "id": "your_id", "name": "Your Name" }
+]
