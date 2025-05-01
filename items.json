@@ -1,0 +1,11 @@
+{
+
+            {
+                category: 'slippers', // Must match a category id
+                brand: 'adidas',     // Must match a brand id (or 'all')
+                name: 'Yeezy Slides',
+                description: 'Repliki kapci "Yeezy Slides"',
+                imageUrl: 'https://placehold.co/400x300/1a202c/e2e8f0?text=Kapcie+Nike',
+                weidianID: '7399037725' // Just the ID here
+            },
+}
