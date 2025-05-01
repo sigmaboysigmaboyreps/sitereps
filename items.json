@@ -8,5 +8,20 @@
         "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Yeezy+Slides",
         "weidianID": "7399037725"
     },
- 
+    {
+        "category": "shoes",
+        "brand": "nike",
+        "name": "Nike Dunks Low",
+        "description": "Wysokiej jakości repliki butów Nike Dunk Low.",
+        "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Nike+Dunks",
+        "weidianID": "1234567891"
+    },
+    {
+        "category": "clothing",
+        "brand": "puma",
+        "name": "Bluza Puma Essentials",
+        "description": "Wygodna bluza z logo Puma.",
+        "imageUrl": "https://placehold.co/400x300/1a202c/e2e8f0?text=Bluza+Puma",
+        "weidianID": "6677889900"
+    }
 ]
